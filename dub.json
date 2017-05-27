@@ -1,0 +1,12 @@
+{
+	"name": "cryperf",
+	"authors": [
+		"Jonas Wolf"
+	],
+	"description": "Performance test tool for my crypto algorithms.",
+	"copyright": "Copyright © 2017, Jonas Wolf",
+	"license": "proprietary",
+	"dependencies": {
+		"chacha" : "1.0.0"
+	}
+}
